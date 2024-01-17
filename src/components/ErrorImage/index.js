@@ -1,4 +1,4 @@
-import {ErrorContainer, Para, Head, Button, ErrorImg} from './styledcomponents'
+import {ErrorContainer, Para, Head, Button, ErrorImg} from './styledComponents'
 
 import AppTheme from '../../context/Theme'
 
